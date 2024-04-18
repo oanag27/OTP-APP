@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Register Page</title>
+</head>
+<body>
+<h1>Register Page</h1>
+<h3>Hello, please input your email!</h3>
+<form id="registerForm" onsubmit="return validateItemsInForm()">
+    <label for="email">Email</label>
+    <input type="text" id="email" name="email"><br><br>
+    <div id="emailerror" style="color: red"></div>
+
+    <label for="username">Username</label>
+    <input type="text" id="username" name="username"><br><br>
+    <div id="usernameerror" style="color: red"></div>
+
+    <button type="submit" onclick="submitRegisterForm()">Submit</button>
+</form>
+<script>
+    function validateItemsInForm() {
+        let isValid = true;
+        const email = document.getElementById("email").value;
+        const username = document.getElementById("username").value;
+        const emailerror = document.getElementById("emailerror");
+        const usernameerror = document.getElementById("usernameerror");
+        emailerror.textContent = "";
+        usernameerror.textContent = "";
+    if (email.length < 5 || !String(email).includes("@") || !String(email).includes(".")) {
+            emailerror.textContent = "Not valid";
+            isValid = false;
+        }
+        if (username.length < 5) {
+            usernameerror.textContent = "Not valid";
+            isValid = false;
+        }
+        return isValid;
+    }    function submitRegisterForm() {
+        event.preventDefault();
+        var email = document.getElementById("email").value;
+        var username = document.getElementById("username").value;
+        var user = {
+            email: email,
+            username: username
+        };
+        fetch('/api/UserRegister', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(user)
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Error');
+                }
+                window.location.href = "loginpage.html";
+            })
+            .catch(error => {
+                console.error(error);
+            });
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Login Page</title>
+    <style>
+        .toast {
+            display: flex;
+            align-items: center;
+            position: absolute;
+            padding-top: 100px;
+            width: 500px;
+            height: 30px;
+            background-color: black;
+            border-radius: 8px;
+            padding: 0.5rem 1rem;
+        }
+    </style>
+</head>
+<body>
+<h1>Login Page</h1>
+<h3>Hello, please input your email!</h3>
+<form id="loginForm">
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required><br><br>
+    <div class="toast-label" style="margin-bottom: 5px">Please introduce the password:</div>
+    <div id="otpExpirationTime" style="color: red;margin-bottom: 10px"></div>
+    <div class="toast" id="toast">
+        <div id="text-toast" style="color: white;"></div>
+    </div>
+    <div class="otp-input-user" style="padding-top: 70px">
+        <label for="otp" style="padding-top: 500px">Password:</label>
+        <input type="text" id="otpPassword" name="otpPassword" required><br><br>
+        <button type="submit" onclick="submitLoginForm()">Submit</button>
+    </div>
+</form>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetchOTP();
+    });
+    function calculateTime(nrOfseconds) {
+        const otpExpirationTime = document.getElementById("otpExpirationTime");
+        otpExpirationTime.innerText = `Password expires after 60 seconds`;
+        const timeLeft = setInterval(() => {
+            nrOfseconds--;
+            otpExpirationTime.innerText = `Seconds ${nrOfseconds} left`;
+            if (nrOfseconds <= 0) {
+                clearInterval(timeLeft);
+                otpExpirationTime.innerText = "Password expired";
+                fetchOTP();
+            }
+        }, 1000);   //calculate the time remained after each second
+    }
+
+        function fetchOTP() {
+            calculateTime(60);
+            fetch('/api/GenerateOTPPassword', {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Error');
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log(data);
+                const otpCode = document.getElementById("text-toast");
+                otpCode.innerText = data.otpPassword; 
+            })
+            .catch(error => {
+                console.error(error);
+            });
+        }
+    
+        function submitLoginForm() {
+            const email = document.getElementById("email").value;
+            const password = document.getElementById("otpPassword").value;
+            const otpCode = document.getElementById("text-toast").innerText.trim();
+
+            fetch(`/api/UserRegister/GetUserByEmail/${email}`, {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Error');
+                }
+                return response.json();
+            })
+            .then(user => {
+                if (user) {
+                    if (password === otpCode) {
+                        window.location.href = "bankpage.html";
+                    } else {
+                    throw new Error('Error');
+                    }
+                } else {
+                    throw new Error('Error');
+                }
+            })
+            .catch(error => {
+                console.error(error);
+            });
+        }
+
+    
+</script>
+</body>
+</html>

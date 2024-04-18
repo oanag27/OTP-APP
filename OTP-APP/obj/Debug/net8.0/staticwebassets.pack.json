@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\bankpage.html",
+      "PackagePath": "staticwebassets\\bankpage.html"
+    },
+    {
+      "Id": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\loginpage.html",
+      "PackagePath": "staticwebassets\\loginpage.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OTP-APP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OTP-APP.props",
+      "PackagePath": "build\\OTP-APP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OTP-APP.props",
+      "PackagePath": "buildMultiTargeting\\OTP-APP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OTP-APP.props",
+      "PackagePath": "buildTransitive\\OTP-APP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

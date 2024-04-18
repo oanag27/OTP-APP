@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "uvEDOlhS8G+ySbZF/F2PuICQUs6FfUCKN3ZjD3JNq0Y=",
+  "Source": "OTP-APP",
+  "BasePath": "_content/OTP-APP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OTP-APP\\wwwroot",
+      "Source": "OTP-APP",
+      "ContentRoot": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\",
+      "BasePath": "_content/OTP-APP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\bankpage.html",
+      "SourceId": "OTP-APP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\",
+      "BasePath": "_content/OTP-APP",
+      "RelativePath": "bankpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bankpage.html"
+    },
+    {
+      "Identity": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\index.html",
+      "SourceId": "OTP-APP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\",
+      "BasePath": "_content/OTP-APP",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\loginpage.html",
+      "SourceId": "OTP-APP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\",
+      "BasePath": "_content/OTP-APP",
+      "RelativePath": "loginpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\loginpage.html"
+    }
+  ]
+}

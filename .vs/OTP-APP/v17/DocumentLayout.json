@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\wwwroot\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C365FE5-0C9D-4628-BDC1-7605FCBFC31C}|OTP-APP.test\\OTP-APP.test.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C365FE5-0C9D-4628-BDC1-7605FCBFC31C}|OTP-APP.test\\OTP-APP.test.csproj|solutionrelative:otp-app.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C365FE5-0C9D-4628-BDC1-7605FCBFC31C}|OTP-APP.test\\OTP-APP.test.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app.test\\otp-app.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C365FE5-0C9D-4628-BDC1-7605FCBFC31C}|OTP-APP.test\\OTP-APP.test.csproj|solutionrelative:otp-app.test\\otp-app.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\controllers\\otp\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\controllers\\otp\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\validations\\userregistervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\validations\\userregistervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\domain\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\domain\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\controllers\\register\\userregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\controllers\\register\\userregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\service\\userregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\service\\userregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\service\\iuserregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\service\\iuserregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\repository\\userregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\repository\\userregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\repository\\iuserregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\repository\\iuserregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\otp-app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\otp-app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\wwwroot\\bankpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\wwwroot\\bankpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|c:\\users\\oanam\\source\\repos\\otp-app\\otp-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B9D22A-21D8-4849-917D-6E733DE927B6}|OTP-APP\\OTP-APP.csproj|solutionrelative:otp-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Program.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Program.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Program.cs",
+              "RelativeToolTip": "OTP-APP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:41:45.613Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginpage.html",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\loginpage.html",
+              "RelativeDocumentMoniker": "OTP-APP\\wwwroot\\loginpage.html",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\loginpage.html",
+              "RelativeToolTip": "OTP-APP\\wwwroot\\loginpage.html",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-18T12:46:20.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP.test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "OTP-APP.test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP.test\\UnitTest1.cs",
+              "RelativeToolTip": "OTP-APP.test\\UnitTest1.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:35:22.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OTP-APP.test.csproj",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP.test\\OTP-APP.test.csproj",
+              "RelativeDocumentMoniker": "OTP-APP.test\\OTP-APP.test.csproj",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP.test\\OTP-APP.test.csproj",
+              "RelativeToolTip": "OTP-APP.test\\OTP-APP.test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T10:35:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OtpController.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Controllers\\OTP\\OtpController.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Controllers\\OTP\\OtpController.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Controllers\\OTP\\OtpController.cs",
+              "RelativeToolTip": "OTP-APP\\Controllers\\OTP\\OtpController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:43:38.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRegisterValidation.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Validations\\UserRegisterValidation.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Validations\\UserRegisterValidation.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Validations\\UserRegisterValidation.cs",
+              "RelativeToolTip": "OTP-APP\\Validations\\UserRegisterValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:44:28.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Domain\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Domain\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Domain\\RegisterUser.cs",
+              "RelativeToolTip": "OTP-APP\\Domain\\RegisterUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:07:53.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Domain\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Domain\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Domain\\AppDbContext.cs",
+              "RelativeToolTip": "OTP-APP\\Domain\\AppDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBUAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:07:35.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OTP-APP\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\appsettings.Development.json",
+              "RelativeToolTip": "OTP-APP\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T18:06:53.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Controllers\\Register\\UserRegisterController.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Controllers\\Register\\UserRegisterController.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Controllers\\Register\\UserRegisterController.cs",
+              "RelativeToolTip": "OTP-APP\\Controllers\\Register\\UserRegisterController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:13:44.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Service\\UserRegisterService.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Service\\UserRegisterService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Service\\UserRegisterService.cs",
+              "RelativeToolTip": "OTP-APP\\Service\\UserRegisterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:10:55.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Service\\IUserRegisterService.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Service\\IUserRegisterService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Service\\IUserRegisterService.cs",
+              "RelativeToolTip": "OTP-APP\\Service\\IUserRegisterService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:10:19.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Repository\\UserRegisterRepository.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Repository\\UserRegisterRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Repository\\UserRegisterRepository.cs",
+              "RelativeToolTip": "OTP-APP\\Repository\\UserRegisterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:59:34.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Repository\\IUserRegisterRepository.cs",
+              "RelativeDocumentMoniker": "OTP-APP\\Repository\\IUserRegisterRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Repository\\IUserRegisterRepository.cs",
+              "RelativeToolTip": "OTP-APP\\Repository\\IUserRegisterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:59:16.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OTP-APP.http",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\OTP-APP.http",
+              "RelativeDocumentMoniker": "OTP-APP\\OTP-APP.http",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\OTP-APP.http",
+              "RelativeToolTip": "OTP-APP\\OTP-APP.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-17T14:57:54.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "OTP-APP\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\index.html",
+              "RelativeToolTip": "OTP-APP\\wwwroot\\index.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-17T14:46:40.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bankpage.html",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\bankpage.html",
+              "RelativeDocumentMoniker": "OTP-APP\\wwwroot\\bankpage.html",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\wwwroot\\bankpage.html",
+              "RelativeToolTip": "OTP-APP\\wwwroot\\bankpage.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-17T14:45:20.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OTP-APP\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OTP-APP\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T14:42:49.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\appsettings.json",
+              "RelativeDocumentMoniker": "OTP-APP\\appsettings.json",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\appsettings.json",
+              "RelativeToolTip": "OTP-APP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T14:24:28.243Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\.gitignore",
+              "RelativeDocumentMoniker": "OTP-APP\\.gitignore",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\OTP-APP\\OTP-APP\\.gitignore",
+              "RelativeToolTip": "OTP-APP\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-18T12:59:30.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
